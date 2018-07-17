@@ -11,8 +11,9 @@
   <dependencies>
       <dependency>
          <groupId>junit</groupId>
-          <artifactId>test3 test3</artifactId>         <version>4.12-beta-3</version>
+          <artifactId>test4 test3</artifactId>         <version>4.12-beta-3</version>
          <scope>test</scope>
+	      test4
       </dependency>
       <!-- slf4j:是规范，接口
                             日志实现:log4j,logback,common-logging
