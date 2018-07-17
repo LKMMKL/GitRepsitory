@@ -11,8 +11,7 @@
   <dependencies>
       <dependency>
          <groupId>junit</groupId>
-         <artifactId>test2 test2</artifactId>
-         <version>4.12-beta-3</version>
+          <artifactId>test2 test2</artifactId>         <version>4.12-beta-3</version>
          <scope>test</scope>
       </dependency>
       <!-- slf4j:是规范，接口
