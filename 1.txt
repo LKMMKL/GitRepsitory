@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 the fourst line!!
+=======
+
+the third line!!
+>>>>>>> 75520e55513432214bece2d6946e965f7f2dc606
